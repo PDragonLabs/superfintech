@@ -161,4 +161,7 @@ AI Generated Movie:
 [1-10,4 inspiration ai for george](https://www.youtube.com/watch?v=c3QXrNv_M8I)
 
 
+# How to turn a cartoon into an ai animated movie with new characters and voice, follow plot and structure... pai... ok
+
+
 
