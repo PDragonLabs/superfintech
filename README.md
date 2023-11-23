@@ -7,7 +7,7 @@
 ## dialog start1
 [dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
 
-## project plan
+## project plan and writing assistant 
 [project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
 
 ## actor cast link
@@ -16,3 +16,7 @@
 ## images
 [image1](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
 [image2](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
+
+
+## ai generated movie
+[ai video](https://wonderdynamics.com/)
