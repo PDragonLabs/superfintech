@@ -15,7 +15,7 @@
 - Responsible for overall accurate maintenance of all media overviews and reports.
 - Reviews media opportunities and provides recommendations to stakeholders. 
 - Communicates regularly with external media agency and key publishers/media partners to ensure media planning is aligned with objectives. 
-- Collaborates with various internal WB departments and divisions of PDL Discovery maximize media efforts.
+- Collaborates with various internal PDL departments and divisions of PDL Discovery maximize media efforts.
 - Assists with creating and maintaining PowerPoint presentations for management and filmmakers.
 - Backs up VP/Director of Global Media as necessary.
 - Coordinates special film projects and explores opportunities for development.
