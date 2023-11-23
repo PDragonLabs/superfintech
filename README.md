@@ -146,14 +146,12 @@ Actor Cast Link:
 Images:
 
  
-![caption](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)  Tom Hanks as George Jetson
+![caption](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)  Tom Hanks as George Jetson image 1
 
 ![caption](Leonardo_Diffusion_XL_cast_black_lab_dog_as_george_jestons_do_0.jpg)   Astro the dog, the AI companion
 
 
-![caption](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
-
-![caption](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
+![caption](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small) Tom Hanks as George Jetson image 2
 
 [image generator link](https://app.leonardo.ai/ai-generations)
 
