@@ -1,3 +1,5 @@
+# CodeName:Cypress - AI video animator for cartoons
+
 # Project Plan AI Vido and Writing Assistant 
 # Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
 
