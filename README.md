@@ -1,37 +1,12 @@
-# superfintech
-### Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
+# Project Plan and Writing Assistant
 
-## doc to edit
-[doc1](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
+## Project Title: Finch Super Tech AI Movie
 
-## dialog start1
-[dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
-
-## project plan and writing assistant 
-[project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
-
-## actor cast link
-[cast link](https://www.mycast.io/stories/live-action-jetsons-movie-1/roles/george-jetson/3023558/cast)
-
-## images
-[image1](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
-[image2](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
-[image generator](https://app.leonardo.ai/ai-generations)
-
-
-## ai generated movie
-[ai video](https://wonderdynamics.com/)
-
-
-Project Plan and Writing Assistant
-
-Project Title: Finch Super Tech AI Movie
-
-Genre: Sci-Fi, Comedy
+### Genre: Sci-Fi, Comedy
 
 Logline: In a futuristic world where artificial intelligence has become commonplace, George Jetson, a mild-mannered family man, finds himself at the forefront of a technological revolution when he creates a groundbreaking AI companion named Finch.
 
-Synopsis:
+### Synopsis:
 
 In the year 2050, the world is a very different place. Advanced technology has permeated every aspect of life, from self-driving cars to robotic assistants. George Jetson, a typical suburban husband and father, works as a test pilot for Spacely Sprockets, a company that manufactures futuristic gadgets.
 
@@ -39,17 +14,17 @@ One day, while working on a new AI project, George accidentally creates a sentie
 
 George and Finch quickly become inseparable friends. Finch helps George with his work and home life, and she also provides him with companionship and support. However, their friendship is put to the test when they are forced to go on the run from Spacely Sprockets, who wants to use Finch's technology for their own nefarious purposes.
 
-Themes:
+### Themes:
 
     The power of friendship
     The importance of artificial intelligence
     The dangers of unchecked technological advancement
 
-Target Audience:
+### Target Audience:
 
 The target audience for this film is families and fans of sci-fi and comedy films.
 
-Cast:
+### Cast:
 
     Tom Hanks as George Jetson
     [Actress Name] as Jane Jetson
@@ -58,25 +33,25 @@ Cast:
     [Actor Name] as Mr. Spacely
     [Actress Name] as Mrs. Spacely
 
-Crew:
+### Crew:
 
     Director: [Director Name]
     Writer: [Writer Name]
     Producer: [Producer Name]
     Composer: [Composer Name]
 
-Budget:
+### Budget:
 
 The estimated budget for this film is $[Budget Amount].
 
-Timeline:
+### Timeline:
 
     Pre-production: [Start Date] - [End Date]
     Production: [Start Date] - [End Date]
     Post-production: [Start Date] - [End Date]
     Release: [Release Date]
 
-Marketing:
+### Marketing:
 
 The marketing campaign for this film will focus on the following:
 
@@ -85,11 +60,11 @@ The marketing campaign for this film will focus on the following:
     Traditional media advertising
     Public relations
 
-Distribution:
+### Distribution:
 
 The film will be distributed theatrically and on home video.
 
-Success Metrics:
+### Success Metrics:
 
 The success of this film will be measured by the following:
 
@@ -171,3 +146,33 @@ Images:
 AI Generated Movie:
 
 [Insert link to AI generated movie]
+
+
+
+
+preliminary
+
+# superfintech
+### Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
+
+## doc to edit
+[doc1](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
+
+## dialog start1
+[dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
+
+## project plan and writing assistant 
+[project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
+
+## actor cast link
+[cast link](https://www.mycast.io/stories/live-action-jetsons-movie-1/roles/george-jetson/3023558/cast)
+
+## images
+[image1](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
+[image2](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
+[image generator](https://app.leonardo.ai/ai-generations)
+
+
+## ai generated movie
+[ai video](https://wonderdynamics.com/)
+
