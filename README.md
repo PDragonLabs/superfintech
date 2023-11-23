@@ -1,4 +1,5 @@
-# Project Plan AI Vido and Writing Assistant
+# Project Plan AI Vido and Writing Assistant 
+# Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
 
 ## Project Title: AI Gen Movie "Finch Super Tech AI Movie"  ---> as George Jetson
 
@@ -73,10 +74,14 @@ The success of this film will be measured by the following:
     Audience engagement
 
 Doc to Edit:
+## dialog start1
+[dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
 
-doc1.txt
+## project plan and writing assistant 
+[project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
 
-Dialog Start1:
+[doc1.txt](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
+
 
 [SCENE START]
 
@@ -136,43 +141,21 @@ Finch uses her AI powers to hack into the Spacely Sprockets security system, shu
 
 Actor Cast Link:
 
-[Insert link to actor cast website]
+[link to actor cast website](https://www.mycast.io/stories/live-action-jetsons-movie-1/roles/george-jetson/3023558/cast)
 
 Images:
 
-[Insert image of Tom Hanks as George Jetson]
+[image of Tom Hanks as George Jetson](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
 [Insert image of Finch, the AI companion]
+
+[image1](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
+[image2](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
+
+[image generator link](https://app.leonardo.ai/ai-generations)
 
 AI Generated Movie:
 
-[Insert link to AI generated movie]
+[link to AI generated movie](https://wonderdynamics.com/)
 
 
-
-
-preliminary
-
-# superfintech
-### Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
-
-## doc to edit
-[doc1](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
-
-## dialog start1
-[dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
-
-## project plan and writing assistant 
-[project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
-
-## actor cast link
-[cast link](https://www.mycast.io/stories/live-action-jetsons-movie-1/roles/george-jetson/3023558/cast)
-
-## images
-[image1](https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small)
-[image2](https://pbs.twimg.com/media/F_mQmtZW8AAWDtD?format=jpg&name=small)
-[image generator](https://app.leonardo.ai/ai-generations)
-
-
-## ai generated movie
-[ai video](https://wonderdynamics.com/)
 
