@@ -1,6 +1,6 @@
-# Project Plan and Writing Assistant
+# Project Plan AI Vido and Writing Assistant
 
-## Project Title: Finch Super Tech AI Movie
+## Project Title: AI Gen Movie "Finch Super Tech AI Movie"  ---> as George Jetson
 
 ### Genre: Sci-Fi, Comedy
 
