@@ -169,3 +169,4 @@ AI Generated Movie:
 ![video](jetson.webm)
 ![caption](skitvid.gif)
 
+[jetson playlist id gen ](https://www.youtube.com/watch?v=1oDaHRbIDH8&list=PLda4K5866t0_QufKeB_WE_3v5IQwfO0ro)
