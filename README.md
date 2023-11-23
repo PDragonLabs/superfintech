@@ -158,4 +158,7 @@ AI Generated Movie:
 [link to AI generated movie](https://wonderdynamics.com/)
 
 
+[1-10,4 inspiration ai for george](https://www.youtube.com/watch?v=c3QXrNv_M8I)
+
+
 
