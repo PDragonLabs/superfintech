@@ -191,3 +191,4 @@ AI Generated Movie:
 
 
 [wiki story the jetsons](The_Jetsons.pdf) 
+[Movie Making and Plot Creation Outline](https://github.com/PDragonLabs/superfintech/blob/main/Movie%20Making%20and%20Plot%20Creation.pdf)
