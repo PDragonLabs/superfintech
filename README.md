@@ -1,8 +1,10 @@
 # CodeName:Cypress - [AI video animator for cartoons](https://twitter.com/PDragonLabs/status/1727572084136518100)
 
+### [Movie making and plot making resources](https://g.co/bard/share/f18bb29d3c1e)
+
 # Project Plan AI Vido and Writing Assistant 
 # Cast Tom Hanks as George Jetson in a role for   - finch super tech  ai movie
-# [Outline and Develope Movie and Plot](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGZhNTM0NTBkLTk4YjUtNGM5MS1iNGIxLThlMGViNjhmNWQ5NA)
+# [Outline and Develop Movie and Plot](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGZhNTM0NTBkLTk4YjUtNGM5MS1iNGIxLThlMGViNjhmNWQ5NA)
 
 ## Project Title: AI Gen Movie "Finch Super Tech AI Movie"  ---> as George Jetson
 
