@@ -1,3 +1,9 @@
+
+
+
+<img src="https://pbs.twimg.com/media/F_mQmtdXcAAv_VE?format=jpg&name=small" width=25% height=25%> ..........................................................................<img src="Leonardo_Diffusion_XL_cast_black_lab_dog_as_george_jestons_do_0.jpg" width=25% height=25%>
+
+
 # CodeName:Cypress - [AI video animator for cartoons](https://twitter.com/PDragonLabs/status/1727572084136518100)
 
 ### [Movie making and plot making resources](https://g.co/bard/share/f18bb29d3c1e)
@@ -80,13 +86,14 @@ The success of this film will be measured by the following:
 
 Doc to Edit:
 ## dialog start1
-[dialog1](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
+[dialog1 Cast Tom Hanks as George Jetson in a role for - finch super tech](https://app.napkin.ai/#page?page_key=CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDNhMTE3ZTdkLTA2NGQtNGQzNy1hZGJhLWMzMTM4MjkzY2U1Zg)
 
 ## project plan and writing assistant 
-[project plan](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
+[Casting Tom Hanks as George Jetson in a role for - finch super tech](https://www.taskade.com/d/jYnNSY54udTiYCA9?share=view&view=oiu91Joht5bG5wCN&as=list)
 
-[doc1.txt](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
+[google doc for editing](https://docs.google.com/document/d/1I_EjCVU_YdV9H3duNr7YtAu0o4gIASIAjDxtvnD6sKE/edit?usp=sharing)
 
+[jetson playlist id gen reasearch topic ](https://www.youtube.com/watch?v=1oDaHRbIDH8&list=PLda4K5866t0_QufKeB_WE_3v5IQwfO0ro)
 
 [SCENE START]
 
