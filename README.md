@@ -178,8 +178,16 @@ AI Generated Movie:
 [1-10,4 inspiration ai for george](https://www.youtube.com/watch?v=c3QXrNv_M8I)
 
 
+
+### ref area:
+
 # How to turn a cartoon into an ai animated movie with new characters and voice, follow plot and structure... pai... ok
 ![video](jetson.webm)
 ![caption](skitvid.gif)
 
 [jetson playlist id gen ](https://www.youtube.com/watch?v=1oDaHRbIDH8&list=PLda4K5866t0_QufKeB_WE_3v5IQwfO0ro)
+
+[How Animated Cartoons Were Made Before Computers](https://www.youtube.com/watch?v=D5N1hSNz-uI)
+
+
+[wiki story the jetsons](The_Jetsons.pdf) 
