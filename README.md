@@ -174,15 +174,14 @@ AI Generated Movie:
 
 [link to AI generated movie](https://wonderdynamics.com/)
 
-
 [1-10,4 inspiration ai for george](https://www.youtube.com/watch?v=c3QXrNv_M8I)
-
-
 
 ### ref area:
 
 # How to turn a cartoon into an ai animated movie with new characters and voice, follow plot and structure... pai... ok
+
 ![video](jetson.webm)
+
 ![caption](skitvid.gif)
 
 [jetson playlist id gen ](https://www.youtube.com/watch?v=1oDaHRbIDH8&list=PLda4K5866t0_QufKeB_WE_3v5IQwfO0ro)
@@ -191,4 +190,25 @@ AI Generated Movie:
 
 
 [wiki story the jetsons](The_Jetsons.pdf) 
+
 [Movie Making and Plot Creation Outline](https://github.com/PDragonLabs/superfintech/blob/main/Movie%20Making%20and%20Plot%20Creation.pdf)
+
+
+
+[Walt_Disney_Studios_(division)](Walt_Disney_Studios_(division).pdf)
+
+[Walt_Disney_Animation_Studios](Walt_Disney_Animation_Studios.pdf)
+
+[(Walt_Disney legend](Walt_Disney-1.pdf)
+
+[Hanna-Barbera](Hanna-Barbera.pdf)
+
+
+
+
+
+
+
+
+
+
