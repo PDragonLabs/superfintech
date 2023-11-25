@@ -9,8 +9,6 @@
 
 ## PDL Develops, coordinates, and schedules the use of media sources in advertising campaigns.  Performs special assignments and related work. 
 
-# PDL Role 
-
 ### Accountabilities...
 
 - Responsible for the media planning and execution of a given film campaign. 
