@@ -9,7 +9,9 @@
 
 ## PDL Develops, coordinates, and schedules the use of media sources in advertising campaigns.  Performs special assignments and related work. 
 
-# PDL Role Accountabilities...
+# PDL Role 
+
+### Accountabilities...
 
 - Responsible for the media planning and execution of a given film campaign. 
 - Responsible for overall accurate maintenance of all media overviews and reports.
@@ -19,9 +21,11 @@
 - Assists with creating and maintaining PowerPoint presentations for management and filmmakers.
 - Backs up VP/Director of Global Media as necessary.
 - Coordinates special film projects and explores opportunities for development.
-- Qualifications & Experience...
+
+### Qualifications & Experience...
+
 - Bachelor’s degree required; emphasis in Marketing, Communications, Advertising, Public Relations, or a related field strongly preferred.
-- Sufficient knowledge of marketing and linear/digital media is required to develop media plans for the promotion of Warner Bros. films. 
+- Sufficient knowledge of marketing and linear/digital media is required to develop media plans for the promotion of PDL films. 
 - Able to develop, manage, and monitor budgets and expenditures.
 - Able to communicate with all levels of management on media related issues.
 - Able to analyze the effectiveness of media advertising.
