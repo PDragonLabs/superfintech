@@ -207,6 +207,12 @@ AI Generated Movie:
 
 
 [Steven_Spielberg](Steven_Spielberg.pdf)
+ 
+[Ridley_Scott](Ridley_Scott.pdf)
+
+[James_Cameron](James_Cameron.pdf)
+ 
+[James_Gunn](James_Gunn.pdf)
 
 
 
